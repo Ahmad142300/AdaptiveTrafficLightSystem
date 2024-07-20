@@ -388,7 +388,8 @@ def main(i, inputPattern):
     # Function to detect lines and filter based on length
 
     # Set the minimum length for the lines
-    min_length = 50  # Adjust this value based on your requirement
+
+    min_length = int(edges.shape[0] * 0.8)  # Adjust this value based on your requirement
 
     # Detect long lines
     long_lines_rotated = detect_long_lines(edges, min_length, max_gap=20, threshold=50)
@@ -802,10 +803,10 @@ def main(i, inputPattern):
     # clear_output()
 
     if takeYellow:
-        print("Took yellow as part of ROI")
+        # print("Took yellow as part of ROI")
         wanted_regionForBlended = yellow_mask + red_mask + orange_mask
     else:
-        print("Did not take yellow as part of ROI")
+        # print("Did not take yellow as part of ROI")
         wanted_regionForBlended = red_mask + orange_mask
 
     #
@@ -914,14 +915,14 @@ def main(i, inputPattern):
     original_real_world_area = original_wanted_region_sum * ratioLength * ratioWith
     estimated_area_in_meters_pixel_conversion = area_pixels * warpedRatioLength * warpedRatioWidth
 
-    print("""************************RATIO CONVERSION*****************************""")
+    # print("""************************RATIO CONVERSION*****************************""")
 
-    print("{:<40} {:>20}".format("Estimated area in meters:",
-                                 f"{estimated_area_in_meters_pixel_conversion:.2f} square meters"))
-    print("{:<40} {:>20}".format("Actual area in meters:", f"{original_real_world_area:.2f} square meters"))
-    print("{:<40} {:>20}".format("Estimated area in pixels:", f"{area_pixels}"))
-    print("{:<40} {:>20}".format("Actual area in pixels:", f"{original_wanted_region_sum}"))
-    print("""**************************CONTOURS************************************""")
+    # print("{:<40} {:>20}".format("Estimated area in meters:",
+    #                              f"{estimated_area_in_meters_pixel_conversion:.2f} square meters"))
+    # print("{:<40} {:>20}".format("Actual area in meters:", f"{original_real_world_area:.2f} square meters"))
+    # print("{:<40} {:>20}".format("Estimated area in pixels:", f"{area_pixels}"))
+    # print("{:<40} {:>20}".format("Actual area in pixels:", f"{original_wanted_region_sum}"))
+    # print("""**************************CONTOURS************************************""")
 
     estimatedContours, _ = cv2.findContours(warped_mask, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
     estimatedContours = max(estimatedContours, key=cv2.contourArea)
@@ -947,18 +948,18 @@ def main(i, inputPattern):
     estimated_area_in_meters = estimated_width_in_meters * estimated_height_in_meters
     actual_area_in_meters = actual_width_in_meters * actual_height_in_meters
 
-    print("{:<40} {:>20}".format("Estimated area in meters:", f"{estimated_area_in_meters:.2f} square meters"))
-    print("{:<40} {:>20}".format("Actual area in meters:", f"{actual_area_in_meters:.2f} square meters"))
-    print("{:<40} {:>20}".format("Estimated area (bounding box):", f"{estimatedArea} pixels"))
-    print("{:<40} {:>20}".format("Actual area (bounding box):", f"{actualArea} pixels"))
+    # print("{:<40} {:>20}".format("Estimated area in meters:", f"{estimated_area_in_meters:.2f} square meters"))
+    # print("{:<40} {:>20}".format("Actual area in meters:", f"{actual_area_in_meters:.2f} square meters"))
+    # print("{:<40} {:>20}".format("Estimated area (bounding box):", f"{estimatedArea} pixels"))
+    # print("{:<40} {:>20}".format("Actual area (bounding box):", f"{actualArea} pixels"))
 
     estimatedNoCars = estimate_cars(estimated_area_in_meters)
     estimatedNoCarsPixelToMeters = estimate_cars(estimated_area_in_meters_pixel_conversion)
-    print("************************NUMBER OF CARS********************************")
-    print("{:<40} {:>20}".format("Actual number of cars:", f"{estimate_cars(actual_area_in_meters)}"))
-    print("{:<40} {:>20}".format("Estimated number of cars using contours:", f"{estimatedNoCars}"))
-    print("{:<40} {:>20}".format("Estimated number of cars using pixel conversion:",
-                                 f"{estimatedNoCarsPixelToMeters}"))
+    # print("************************NUMBER OF CARS********************************")
+    # print("{:<40} {:>20}".format("Actual number of cars:", f"{estimate_cars(actual_area_in_meters)}"))
+    # print("{:<40} {:>20}".format("Estimated number of cars using contours:", f"{estimatedNoCars}"))
+    # print("{:<40} {:>20}".format("Estimated number of cars using pixel conversion:",
+                                #  f"{estimatedNoCarsPixelToMeters}"))
     currentTimeGMT = datetime.datetime.now()
     currentTimeGMT = currentTimeGMT.replace(second=0, microsecond=0)
     formattedTimeGMT = currentTimeGMT.strftime("%H:%M")
@@ -978,7 +979,7 @@ def generate_estimation():
     # trafficID = i+1
     estimation, weatherStamp, timeStamp, dateStamp = main(1, int(inputPatterns[random_number]))
     history.append([1, int(estimation), weatherStamp, timeStamp, dateStamp])
-    # i += 1
+        # i += 1
 
     return history, int(estimation)
 
@@ -986,5 +987,5 @@ def generate_estimation():
 if __name__ == "__main__":
     estimations = generate_estimation()
     save_to_database(estimations)
-    print(f"Appended {estimations} to the database.")
-    print(f"Appended {estimations} to the database.")
+    # print(f"Appended {estimations} to the database.")
+    # print(f"Appended {estimations} to the database.")
