@@ -83,8 +83,8 @@ def randomize_function():
     # Randomly choose the pattern type for all lanes
     pattern_type = random.choice([1, 2, 3])
     # pattern_type = 2
-    min_threshold = 40
-    max_threshold = 200
+    min_threshold = 20
+    max_threshold = 50
 
     for lane in road:
         flag = False

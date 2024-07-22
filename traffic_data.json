@@ -2,361 +2,401 @@
     {
         "Cycle 1": {
             "trafficID": 1,
-            "num_cars": 43,
-            "weatherStamp:": 40.4,
-            "timeStamp": "16:55",
-            "dateStamp": "07/20/2024",
-            "greenTime": 13
+            "num_cars": 109,
+            "weatherStamp:": 37.6,
+            "timeStamp": "11:14",
+            "dateStamp": "07/21/2024",
+            "greenTime": 50
         }
     },
     {
         "Cycle 1": {
             "trafficID": 2,
-            "num_cars": 99,
-            "weatherStamp:": 40.4,
-            "timeStamp": "16:55",
-            "dateStamp": "07/20/2024",
-            "greenTime": 25
+            "num_cars": 37,
+            "weatherStamp:": 37.6,
+            "timeStamp": "11:15",
+            "dateStamp": "07/21/2024",
+            "greenTime": 19
         }
     },
     {
         "Cycle 1": {
             "trafficID": 3,
-            "num_cars": 52,
-            "weatherStamp:": 40.4,
-            "timeStamp": "16:56",
-            "dateStamp": "07/20/2024",
-            "greenTime": 15
+            "num_cars": 32,
+            "weatherStamp:": 37.6,
+            "timeStamp": "11:16",
+            "dateStamp": "07/21/2024",
+            "greenTime": 16
         }
     },
     {
         "Cycle 1": {
             "trafficID": 4,
-            "num_cars": 116,
-            "weatherStamp:": 40.4,
-            "timeStamp": "16:56",
-            "dateStamp": "07/20/2024",
-            "greenTime": 29
+            "num_cars": 84,
+            "weatherStamp:": 37.6,
+            "timeStamp": "11:16",
+            "dateStamp": "07/21/2024",
+            "greenTime": 42
         }
     },
     {
         "Cycle 2": {
             "trafficID": 1,
-            "num_cars": 9,
-            "weatherStamp:": 40.4,
-            "timeStamp": "16:57",
-            "dateStamp": "07/20/2024",
-            "greenTime": 5
+            "num_cars": 125,
+            "weatherStamp:": 37.6,
+            "timeStamp": "11:17",
+            "dateStamp": "07/21/2024",
+            "greenTime": 50
         }
     },
     {
         "Cycle 2": {
-            "trafficID": 2,
-            "num_cars": 126,
-            "weatherStamp:": 40.4,
-            "timeStamp": "16:57",
-            "dateStamp": "07/20/2024",
-            "greenTime": 31
-        }
-    },
-    {
-        "Cycle 2": {
-            "trafficID": 3,
-            "num_cars": 114,
-            "weatherStamp:": 40.4,
-            "timeStamp": "16:58",
-            "dateStamp": "07/20/2024",
-            "greenTime": 29
-        }
-    },
-    {
-        "Cycle 2": {
-            "trafficID": 4,
-            "num_cars": 123,
-            "weatherStamp:": 40.4,
-            "timeStamp": "16:58",
-            "dateStamp": "07/20/2024",
-            "greenTime": 31
-        }
-    },
-    {
-        "Cycle 3": {
-            "trafficID": 1,
-            "num_cars": 19,
-            "weatherStamp:": 40.4,
-            "timeStamp": "16:59",
-            "dateStamp": "07/20/2024",
-            "greenTime": 9
-        }
-    },
-    {
-        "Cycle 3": {
-            "trafficID": 2,
-            "num_cars": 71,
-            "weatherStamp:": 40.4,
-            "timeStamp": "16:59",
-            "dateStamp": "07/20/2024",
-            "greenTime": 19
-        }
-    },
-    {
-        "Cycle 3": {
-            "trafficID": 3,
-            "num_cars": 91,
-            "weatherStamp:": 40.4,
-            "timeStamp": "16:59",
-            "dateStamp": "07/20/2024",
-            "greenTime": 25
-        }
-    },
-    {
-        "Cycle 3": {
-            "trafficID": 4,
-            "num_cars": 67,
-            "weatherStamp:": 40.4,
-            "timeStamp": "17:00",
-            "dateStamp": "07/20/2024",
-            "greenTime": 19
-        }
-    },
-    {
-        "Cycle 4": {
-            "trafficID": 1,
-            "num_cars": 77,
-            "weatherStamp:": 40.4,
-            "timeStamp": "17:00",
-            "dateStamp": "07/20/2024",
-            "greenTime": 21
-        }
-    },
-    {
-        "Cycle 4": {
-            "trafficID": 2,
-            "num_cars": 54,
-            "weatherStamp:": 40.4,
-            "timeStamp": "17:01",
-            "dateStamp": "07/20/2024",
-            "greenTime": 15
-        }
-    },
-    {
-        "Cycle 4": {
-            "trafficID": 3,
-            "num_cars": 75,
-            "weatherStamp:": 40.4,
-            "timeStamp": "17:01",
-            "dateStamp": "07/20/2024",
-            "greenTime": 21
-        }
-    },
-    {
-        "Cycle 4": {
-            "trafficID": 4,
-            "num_cars": 77,
-            "weatherStamp:": 40.2,
-            "timeStamp": "17:02",
-            "dateStamp": "07/20/2024",
-            "greenTime": 21
-        }
-    },
-    {
-        "Cycle 5": {
-            "trafficID": 1,
-            "num_cars": 102,
-            "weatherStamp:": 40.4,
-            "timeStamp": "17:02",
-            "dateStamp": "07/20/2024",
-            "greenTime": 27
-        }
-    },
-    {
-        "Cycle 5": {
-            "trafficID": 2,
-            "num_cars": 105,
-            "weatherStamp:": 40.2,
-            "timeStamp": "17:03",
-            "dateStamp": "07/20/2024",
-            "greenTime": 27
-        }
-    },
-    {
-        "Cycle 5": {
-            "trafficID": 3,
-            "num_cars": 56,
-            "weatherStamp:": 40.2,
-            "timeStamp": "17:03",
-            "dateStamp": "07/20/2024",
-            "greenTime": 17
-        }
-    },
-    {
-        "Cycle 5": {
-            "trafficID": 4,
-            "num_cars": 106,
-            "weatherStamp:": 40.2,
-            "timeStamp": "17:03",
-            "dateStamp": "07/20/2024",
-            "greenTime": 27
-        }
-    },
-    {
-        "Cycle 6": {
-            "trafficID": 1,
-            "num_cars": 0,
-            "weatherStamp:": 40.2,
-            "timeStamp": "17:04",
-            "dateStamp": "07/20/2024",
-            "greenTime": 3
-        }
-    },
-    {
-        "Cycle 6": {
-            "trafficID": 2,
-            "num_cars": 53,
-            "weatherStamp:": 40.2,
-            "timeStamp": "17:04",
-            "dateStamp": "07/20/2024",
-            "greenTime": 15
-        }
-    },
-    {
-        "Cycle 6": {
-            "trafficID": 3,
-            "num_cars": 53,
-            "weatherStamp:": 40.2,
-            "timeStamp": "17:04",
-            "dateStamp": "07/20/2024",
-            "greenTime": 15
-        }
-    },
-    {
-        "Cycle 6": {
-            "trafficID": 4,
-            "num_cars": 81,
-            "weatherStamp:": 40.2,
-            "timeStamp": "17:05",
-            "dateStamp": "07/20/2024",
-            "greenTime": 21
-        }
-    },
-    {
-        "Cycle 7": {
-            "trafficID": 1,
-            "num_cars": 93,
-            "weatherStamp:": 40.2,
-            "timeStamp": "17:05",
-            "dateStamp": "07/20/2024",
-            "greenTime": 25
-        }
-    },
-    {
-        "Cycle 7": {
-            "trafficID": 2,
-            "num_cars": 69,
-            "weatherStamp:": 40.2,
-            "timeStamp": "17:06",
-            "dateStamp": "07/20/2024",
-            "greenTime": 19
-        }
-    },
-    {
-        "Cycle 7": {
-            "trafficID": 3,
-            "num_cars": 101,
-            "weatherStamp:": 40.2,
-            "timeStamp": "17:06",
-            "dateStamp": "07/20/2024",
-            "greenTime": 27
-        }
-    },
-    {
-        "Cycle 7": {
-            "trafficID": 4,
-            "num_cars": 111,
-            "weatherStamp:": 40.2,
-            "timeStamp": "17:06",
-            "dateStamp": "07/20/2024",
-            "greenTime": 29
-        }
-    },
-    {
-        "Cycle 8": {
-            "trafficID": 1,
-            "num_cars": 19,
-            "weatherStamp:": 40.2,
-            "timeStamp": "17:07",
-            "dateStamp": "07/20/2024",
-            "greenTime": 9
-        }
-    },
-    {
-        "Cycle 8": {
-            "trafficID": 2,
-            "num_cars": 43,
-            "weatherStamp:": 40.2,
-            "timeStamp": "17:07",
-            "dateStamp": "07/20/2024",
-            "greenTime": 13
-        }
-    },
-    {
-        "Cycle 8": {
-            "trafficID": 3,
-            "num_cars": 59,
-            "weatherStamp:": 40.2,
-            "timeStamp": "17:07",
-            "dateStamp": "07/20/2024",
-            "greenTime": 17
-        }
-    },
-    {
-        "Cycle 8": {
-            "trafficID": 4,
-            "num_cars": 92,
-            "weatherStamp:": 40.2,
-            "timeStamp": "17:08",
-            "dateStamp": "07/20/2024",
-            "greenTime": 25
-        }
-    },
-    {
-        "Cycle 9": {
-            "trafficID": 1,
-            "num_cars": 67,
-            "weatherStamp:": 40.2,
-            "timeStamp": "17:08",
-            "dateStamp": "07/20/2024",
-            "greenTime": 19
-        }
-    },
-    {
-        "Cycle 9": {
             "trafficID": 2,
             "num_cars": 87,
-            "weatherStamp:": 40.2,
-            "timeStamp": "17:09",
-            "dateStamp": "07/20/2024",
+            "weatherStamp:": 37.6,
+            "timeStamp": "11:17",
+            "dateStamp": "07/21/2024",
+            "greenTime": 44
+        }
+    },
+    {
+        "Cycle 2": {
+            "trafficID": 3,
+            "num_cars": 46,
+            "weatherStamp:": 37.6,
+            "timeStamp": "11:18",
+            "dateStamp": "07/21/2024",
             "greenTime": 23
         }
     },
     {
+        "Cycle 2": {
+            "trafficID": 4,
+            "num_cars": 62,
+            "weatherStamp:": 37.6,
+            "timeStamp": "11:19",
+            "dateStamp": "07/21/2024",
+            "greenTime": 31
+        }
+    },
+    {
+        "Cycle 3": {
+            "trafficID": 1,
+            "num_cars": 127,
+            "weatherStamp:": 37.6,
+            "timeStamp": "11:19",
+            "dateStamp": "07/21/2024",
+            "greenTime": 50
+        }
+    },
+    {
+        "Cycle 3": {
+            "trafficID": 2,
+            "num_cars": 36,
+            "weatherStamp:": 37.6,
+            "timeStamp": "11:20",
+            "dateStamp": "07/21/2024",
+            "greenTime": 18
+        }
+    },
+    {
+        "Cycle 3": {
+            "trafficID": 3,
+            "num_cars": 81,
+            "weatherStamp:": 37.6,
+            "timeStamp": "11:20",
+            "dateStamp": "07/21/2024",
+            "greenTime": 41
+        }
+    },
+    {
+        "Cycle 3": {
+            "trafficID": 4,
+            "num_cars": 118,
+            "weatherStamp:": 37.6,
+            "timeStamp": "11:22",
+            "dateStamp": "07/21/2024",
+            "greenTime": 50
+        }
+    },
+    {
+        "Cycle 4": {
+            "trafficID": 1,
+            "num_cars": 115,
+            "weatherStamp:": 37.6,
+            "timeStamp": "11:22",
+            "dateStamp": "07/21/2024",
+            "greenTime": 50
+        }
+    },
+    {
+        "Cycle 4": {
+            "trafficID": 2,
+            "num_cars": 38,
+            "weatherStamp:": 37.6,
+            "timeStamp": "11:23",
+            "dateStamp": "07/21/2024",
+            "greenTime": 19
+        }
+    },
+    {
+        "Cycle 4": {
+            "trafficID": 3,
+            "num_cars": 34,
+            "weatherStamp:": 37.6,
+            "timeStamp": "11:24",
+            "dateStamp": "07/21/2024",
+            "greenTime": 17
+        }
+    },
+    {
+        "Cycle 4": {
+            "trafficID": 4,
+            "num_cars": 91,
+            "weatherStamp:": 37.6,
+            "timeStamp": "11:24",
+            "dateStamp": "07/21/2024",
+            "greenTime": 46
+        }
+    },
+    {
+        "Cycle 5": {
+            "trafficID": 1,
+            "num_cars": 0,
+            "weatherStamp:": 37.6,
+            "timeStamp": "11:25",
+            "dateStamp": "07/21/2024",
+            "greenTime": 0
+        }
+    },
+    {
+        "Cycle 5": {
+            "trafficID": 2,
+            "num_cars": 151,
+            "weatherStamp:": 37.6,
+            "timeStamp": "11:25",
+            "dateStamp": "07/21/2024",
+            "greenTime": 50
+        }
+    },
+    {
+        "Cycle 5": {
+            "trafficID": 3,
+            "num_cars": 41,
+            "weatherStamp:": 37.6,
+            "timeStamp": "11:26",
+            "dateStamp": "07/21/2024",
+            "greenTime": 21
+        }
+    },
+    {
+        "Cycle 5": {
+            "trafficID": 4,
+            "num_cars": 81,
+            "weatherStamp:": 37.6,
+            "timeStamp": "11:26",
+            "dateStamp": "07/21/2024",
+            "greenTime": 41
+        }
+    },
+    {
+        "Cycle 6": {
+            "trafficID": 1,
+            "num_cars": 37,
+            "weatherStamp:": 37.6,
+            "timeStamp": "11:27",
+            "dateStamp": "07/21/2024",
+            "greenTime": 19
+        }
+    },
+    {
+        "Cycle 6": {
+            "trafficID": 2,
+            "num_cars": 4,
+            "weatherStamp:": 37.6,
+            "timeStamp": "11:27",
+            "dateStamp": "07/21/2024",
+            "greenTime": 2
+        }
+    },
+    {
+        "Cycle 6": {
+            "trafficID": 3,
+            "num_cars": 54,
+            "weatherStamp:": 37.6,
+            "timeStamp": "11:27",
+            "dateStamp": "07/21/2024",
+            "greenTime": 27
+        }
+    },
+    {
+        "Cycle 6": {
+            "trafficID": 4,
+            "num_cars": 43,
+            "weatherStamp:": 37.6,
+            "timeStamp": "11:28",
+            "dateStamp": "07/21/2024",
+            "greenTime": 22
+        }
+    },
+    {
+        "Cycle 7": {
+            "trafficID": 1,
+            "num_cars": 167,
+            "weatherStamp:": 37.6,
+            "timeStamp": "11:28",
+            "dateStamp": "07/21/2024",
+            "greenTime": 50
+        }
+    },
+    {
+        "Cycle 7": {
+            "trafficID": 2,
+            "num_cars": 124,
+            "weatherStamp:": 37.6,
+            "timeStamp": "11:29",
+            "dateStamp": "07/21/2024",
+            "greenTime": 50
+        }
+    },
+    {
+        "Cycle 7": {
+            "trafficID": 3,
+            "num_cars": 120,
+            "weatherStamp:": 37.6,
+            "timeStamp": "11:30",
+            "dateStamp": "07/21/2024",
+            "greenTime": 50
+        }
+    },
+    {
+        "Cycle 7": {
+            "trafficID": 4,
+            "num_cars": 122,
+            "weatherStamp:": 37.6,
+            "timeStamp": "11:31",
+            "dateStamp": "07/21/2024",
+            "greenTime": 50
+        }
+    },
+    {
+        "Cycle 8": {
+            "trafficID": 1,
+            "num_cars": 62,
+            "weatherStamp:": 37.6,
+            "timeStamp": "11:32",
+            "dateStamp": "07/21/2024",
+            "greenTime": 31
+        }
+    },
+    {
+        "Cycle 8": {
+            "trafficID": 2,
+            "num_cars": 115,
+            "weatherStamp:": 37.6,
+            "timeStamp": "11:32",
+            "dateStamp": "07/21/2024",
+            "greenTime": 50
+        }
+    },
+    {
+        "Cycle 8": {
+            "trafficID": 3,
+            "num_cars": 20,
+            "weatherStamp:": 37.6,
+            "timeStamp": "11:33",
+            "dateStamp": "07/21/2024",
+            "greenTime": 10
+        }
+    },
+    {
+        "Cycle 8": {
+            "trafficID": 4,
+            "num_cars": 122,
+            "weatherStamp:": 37.6,
+            "timeStamp": "11:33",
+            "dateStamp": "07/21/2024",
+            "greenTime": 50
+        }
+    },
+    {
+        "Cycle 9": {
+            "trafficID": 1,
+            "num_cars": 119,
+            "weatherStamp:": 37.6,
+            "timeStamp": "11:34",
+            "dateStamp": "07/21/2024",
+            "greenTime": 50
+        }
+    },
+    {
+        "Cycle 9": {
+            "trafficID": 2,
+            "num_cars": 177,
+            "weatherStamp:": 37.6,
+            "timeStamp": "11:35",
+            "dateStamp": "07/21/2024",
+            "greenTime": 50
+        }
+    },
+    {
         "Cycle 9": {
             "trafficID": 3,
-            "num_cars": 74,
-            "weatherStamp:": 40.2,
-            "timeStamp": "17:09",
-            "dateStamp": "07/20/2024",
-            "greenTime": 21
+            "num_cars": 131,
+            "weatherStamp:": 37.6,
+            "timeStamp": "11:36",
+            "dateStamp": "07/21/2024",
+            "greenTime": 50
         }
     },
     {
         "Cycle 9": {
             "trafficID": 4,
-            "num_cars": 93,
-            "weatherStamp:": 40.2,
-            "timeStamp": "17:10",
-            "dateStamp": "07/20/2024",
-            "greenTime": 25
+            "num_cars": 0,
+            "weatherStamp:": 37.6,
+            "timeStamp": "11:37",
+            "dateStamp": "07/21/2024",
+            "greenTime": 0
+        }
+    },
+    {
+        "Cycle 10": {
+            "trafficID": 1,
+            "num_cars": 95,
+            "weatherStamp:": 37.6,
+            "timeStamp": "11:37",
+            "dateStamp": "07/21/2024",
+            "greenTime": 48
+        }
+    },
+    {
+        "Cycle 10": {
+            "trafficID": 2,
+            "num_cars": 149,
+            "weatherStamp:": 37.6,
+            "timeStamp": "11:38",
+            "dateStamp": "07/21/2024",
+            "greenTime": 50
+        }
+    },
+    {
+        "Cycle 10": {
+            "trafficID": 3,
+            "num_cars": 119,
+            "weatherStamp:": 37.6,
+            "timeStamp": "11:39",
+            "dateStamp": "07/21/2024",
+            "greenTime": 50
+        }
+    },
+    {
+        "Cycle 10": {
+            "trafficID": 4,
+            "num_cars": 26,
+            "weatherStamp:": 37.6,
+            "timeStamp": "11:40",
+            "dateStamp": "07/21/2024",
+            "greenTime": 13
         }
     }
 ]
