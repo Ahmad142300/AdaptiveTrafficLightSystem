@@ -198,5 +198,15 @@
             "dateStamp": "07/21/2024",
             "greenTime": 5
         }
+    },
+    {
+        "Cycle 1": {
+            "trafficID": 1,
+            "num_cars": 34,
+            "weatherStamp:": 34.6,
+            "timeStamp": "09:07",
+            "dateStamp": "07/23/2024",
+            "greenTime": 17
+        }
     }
 ]
