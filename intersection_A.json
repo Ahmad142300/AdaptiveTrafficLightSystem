@@ -1,0 +1,62 @@
+[
+    {
+        "Cycle 1": {
+            "trafficID": 1,
+            "num_cars": 46,
+            "weatherStamp:": 35.9,
+            "timeStamp": "12:07",
+            "dateStamp": "07/25/2024",
+            "greenTime": 23
+        }
+    },
+    {
+        "Cycle 1": {
+            "trafficID": 2,
+            "num_cars": 152,
+            "weatherStamp:": 35.9,
+            "timeStamp": "12:07",
+            "dateStamp": "07/25/2024",
+            "greenTime": 50
+        }
+    },
+    {
+        "Cycle 1": {
+            "trafficID": 3,
+            "num_cars": 126,
+            "weatherStamp:": 35.9,
+            "timeStamp": "12:08",
+            "dateStamp": "07/25/2024",
+            "greenTime": 50
+        }
+    },
+    {
+        "Cycle 1": {
+            "trafficID": 4,
+            "num_cars": 99,
+            "weatherStamp:": 35.9,
+            "timeStamp": "12:09",
+            "dateStamp": "07/25/2024",
+            "greenTime": 50
+        }
+    },
+    {
+        "Cycle 2": {
+            "trafficID": 1,
+            "num_cars": 30,
+            "weatherStamp:": 35.9,
+            "timeStamp": "12:10",
+            "dateStamp": "07/25/2024",
+            "greenTime": 15
+        }
+    },
+    {
+        "Cycle 2": {
+            "trafficID": 2,
+            "num_cars": 56,
+            "weatherStamp:": 35.9,
+            "timeStamp": "12:10",
+            "dateStamp": "07/25/2024",
+            "greenTime": 28
+        }
+    }
+]

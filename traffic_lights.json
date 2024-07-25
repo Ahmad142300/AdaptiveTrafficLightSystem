@@ -1,0 +1,100 @@
+{
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.1 084b4234",
+    "osm3s": {
+        "timestamp_osm_base": "2024-07-23T06:38:44Z",
+        "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+        {
+            "type": "node",
+            "id": 289244027,
+            "lat": 21.5108592,
+            "lon": 39.1820872,
+            "tags": {
+                "highway": "traffic_signals",
+                "traffic_signals": "signal"
+            }
+        },
+        {
+            "type": "node",
+            "id": 354670538,
+            "lat": 21.5115524,
+            "lon": 39.2092274,
+            "tags": {
+                "highway": "traffic_signals",
+                "traffic_signals": "signal"
+            }
+        },
+        {
+            "type": "node",
+            "id": 354670547,
+            "lat": 21.5115361,
+            "lon": 39.2089389,
+            "tags": {
+                "highway": "traffic_signals",
+                "traffic_signals": "signal"
+            }
+        },
+        {
+            "type": "node",
+            "id": 506396672,
+            "lat": 21.5103552,
+            "lon": 39.182153,
+            "tags": {
+                "highway": "traffic_signals",
+                "traffic_signals": "signal"
+            }
+        },
+        {
+            "type": "node",
+            "id": 506396674,
+            "lat": 21.5104026,
+            "lon": 39.1828798,
+            "tags": {
+                "highway": "traffic_signals",
+                "traffic_signals": "signal"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2620533807,
+            "lat": 21.5111172,
+            "lon": 39.2095295,
+            "tags": {
+                "highway": "traffic_signals",
+                "traffic_signals": "signal"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2730581703,
+            "lat": 21.5109457,
+            "lon": 39.2096045,
+            "tags": {
+                "highway": "traffic_signals",
+                "traffic_signals": "signal"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3733747867,
+            "lat": 21.5109487,
+            "lon": 39.209301,
+            "tags": {
+                "highway": "traffic_signals",
+                "traffic_signals": "signal"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4844480440,
+            "lat": 21.510911,
+            "lon": 39.1827789,
+            "tags": {
+                "highway": "traffic_signals",
+                "traffic_signals": "signal"
+            }
+        }
+    ]
+}
