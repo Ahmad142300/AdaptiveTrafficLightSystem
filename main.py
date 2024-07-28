@@ -258,8 +258,9 @@ def main(i, inputPattern):
     # Fetching current weather conditions
     cityName = "jeddah"
     API_KEY = os.getenv("WEATHER_API")
-    currentWeather = get_weather_weatherapi(cityName, API_KEY)
-    currentWeather = currentWeather['temperature']
+    # currentWeather = get_weather_weatherapi(cityName, API_KEY)
+    # currentWeather = currentWeather['temperature']
+    currentWeather = 30
     # print(currentWeather)
 
     """**USING TIME INDEXES**"""

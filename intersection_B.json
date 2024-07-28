@@ -4,8 +4,8 @@
             "trafficID": 1,
             "num_cars": 0,
             "weatherStamp:": null,
-            "timeStamp": "18:21:49",
-            "dateStamp": "2024-07-27",
+            "timeStamp": "09:53:21",
+            "dateStamp": "2024-07-28",
             "greenTime": 3
         }
     },
@@ -14,8 +14,8 @@
             "trafficID": 2,
             "num_cars": 0,
             "weatherStamp:": null,
-            "timeStamp": "18:21:54",
-            "dateStamp": "2024-07-27",
+            "timeStamp": "09:53:26",
+            "dateStamp": "2024-07-28",
             "greenTime": 3
         }
     },
@@ -24,8 +24,8 @@
             "trafficID": 3,
             "num_cars": 0,
             "weatherStamp:": null,
-            "timeStamp": "18:21:59",
-            "dateStamp": "2024-07-27",
+            "timeStamp": "09:53:31",
+            "dateStamp": "2024-07-28",
             "greenTime": 3
         }
     },
@@ -34,8 +34,8 @@
             "trafficID": 4,
             "num_cars": 0,
             "weatherStamp:": null,
-            "timeStamp": "18:22:04",
-            "dateStamp": "2024-07-27",
+            "timeStamp": "09:53:36",
+            "dateStamp": "2024-07-28",
             "greenTime": 3
         }
     },
@@ -44,8 +44,8 @@
             "trafficID": 1,
             "num_cars": 0,
             "weatherStamp:": null,
-            "timeStamp": "18:22:09",
-            "dateStamp": "2024-07-27",
+            "timeStamp": "09:53:42",
+            "dateStamp": "2024-07-28",
             "greenTime": 3
         }
     },
@@ -54,8 +54,8 @@
             "trafficID": 2,
             "num_cars": 0,
             "weatherStamp:": null,
-            "timeStamp": "18:22:14",
-            "dateStamp": "2024-07-27",
+            "timeStamp": "09:53:47",
+            "dateStamp": "2024-07-28",
             "greenTime": 3
         }
     },
@@ -64,8 +64,8 @@
             "trafficID": 3,
             "num_cars": 0,
             "weatherStamp:": null,
-            "timeStamp": "18:22:19",
-            "dateStamp": "2024-07-27",
+            "timeStamp": "09:53:52",
+            "dateStamp": "2024-07-28",
             "greenTime": 3
         }
     },
@@ -74,8 +74,8 @@
             "trafficID": 4,
             "num_cars": 0,
             "weatherStamp:": null,
-            "timeStamp": "18:22:24",
-            "dateStamp": "2024-07-27",
+            "timeStamp": "09:53:57",
+            "dateStamp": "2024-07-28",
             "greenTime": 3
         }
     },
@@ -84,38 +84,38 @@
             "trafficID": 1,
             "num_cars": 0,
             "weatherStamp:": null,
-            "timeStamp": "18:22:29",
-            "dateStamp": "2024-07-27",
+            "timeStamp": "09:54:02",
+            "dateStamp": "2024-07-28",
             "greenTime": 3
         }
     },
     {
         "Cycle 3": {
             "trafficID": 2,
-            "num_cars": 19,
+            "num_cars": 5,
             "weatherStamp:": null,
-            "timeStamp": "18:22:34",
-            "dateStamp": "2024-07-27",
-            "greenTime": 10
-        }
-    },
-    {
-        "Cycle 3": {
-            "trafficID": 3,
-            "num_cars": 0,
-            "weatherStamp:": null,
-            "timeStamp": "18:22:46",
-            "dateStamp": "2024-07-27",
+            "timeStamp": "09:54:07",
+            "dateStamp": "2024-07-28",
             "greenTime": 3
         }
     },
     {
         "Cycle 3": {
+            "trafficID": 3,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "09:54:12",
+            "dateStamp": "2024-07-28",
+            "greenTime": 3
+        }
+    },
+    {
+        "Cycle 3": {
             "trafficID": 4,
             "num_cars": 0,
             "weatherStamp:": null,
-            "timeStamp": "18:22:51",
-            "dateStamp": "2024-07-27",
+            "timeStamp": "09:54:17",
+            "dateStamp": "2024-07-28",
             "greenTime": 3
         }
     },
@@ -124,18 +124,18 @@
             "trafficID": 1,
             "num_cars": 0,
             "weatherStamp:": null,
-            "timeStamp": "18:22:56",
-            "dateStamp": "2024-07-27",
+            "timeStamp": "09:54:22",
+            "dateStamp": "2024-07-28",
             "greenTime": 3
         }
     },
     {
         "Cycle 4": {
             "trafficID": 2,
-            "num_cars": -1.0,
+            "num_cars": 0,
             "weatherStamp:": null,
-            "timeStamp": "18:23:01",
-            "dateStamp": "2024-07-27",
+            "timeStamp": "09:54:27",
+            "dateStamp": "2024-07-28",
             "greenTime": 3
         }
     },
@@ -144,8 +144,8 @@
             "trafficID": 3,
             "num_cars": 0,
             "weatherStamp:": null,
-            "timeStamp": "18:23:06",
-            "dateStamp": "2024-07-27",
+            "timeStamp": "09:54:32",
+            "dateStamp": "2024-07-28",
             "greenTime": 3
         }
     },
@@ -154,8 +154,8 @@
             "trafficID": 4,
             "num_cars": 0,
             "weatherStamp:": null,
-            "timeStamp": "18:23:11",
-            "dateStamp": "2024-07-27",
+            "timeStamp": "09:54:37",
+            "dateStamp": "2024-07-28",
             "greenTime": 3
         }
     },
@@ -164,19 +164,19 @@
             "trafficID": 1,
             "num_cars": 0,
             "weatherStamp:": null,
-            "timeStamp": "18:23:16",
-            "dateStamp": "2024-07-27",
+            "timeStamp": "09:54:42",
+            "dateStamp": "2024-07-28",
             "greenTime": 3
         }
     },
     {
         "Cycle 5": {
             "trafficID": 2,
-            "num_cars": 21,
+            "num_cars": 0,
             "weatherStamp:": null,
-            "timeStamp": "18:23:21",
-            "dateStamp": "2024-07-27",
-            "greenTime": 11
+            "timeStamp": "09:54:47",
+            "dateStamp": "2024-07-28",
+            "greenTime": 3
         }
     },
     {
@@ -184,8 +184,8 @@
             "trafficID": 3,
             "num_cars": 0,
             "weatherStamp:": null,
-            "timeStamp": "18:23:34",
-            "dateStamp": "2024-07-27",
+            "timeStamp": "09:54:52",
+            "dateStamp": "2024-07-28",
             "greenTime": 3
         }
     },
@@ -194,8 +194,8 @@
             "trafficID": 4,
             "num_cars": 0,
             "weatherStamp:": null,
-            "timeStamp": "18:23:39",
-            "dateStamp": "2024-07-27",
+            "timeStamp": "09:54:57",
+            "dateStamp": "2024-07-28",
             "greenTime": 3
         }
     },
@@ -204,28 +204,28 @@
             "trafficID": 1,
             "num_cars": 0,
             "weatherStamp:": null,
-            "timeStamp": "18:23:44",
-            "dateStamp": "2024-07-27",
+            "timeStamp": "09:55:02",
+            "dateStamp": "2024-07-28",
             "greenTime": 3
         }
     },
     {
         "Cycle 6": {
             "trafficID": 2,
-            "num_cars": -1.0,
+            "num_cars": 23,
             "weatherStamp:": null,
-            "timeStamp": "18:23:49",
-            "dateStamp": "2024-07-27",
-            "greenTime": 3
+            "timeStamp": "09:55:07",
+            "dateStamp": "2024-07-28",
+            "greenTime": 12
         }
     },
     {
         "Cycle 6": {
             "trafficID": 3,
-            "num_cars": 3,
+            "num_cars": 0,
             "weatherStamp:": null,
-            "timeStamp": "18:23:54",
-            "dateStamp": "2024-07-27",
+            "timeStamp": "09:55:21",
+            "dateStamp": "2024-07-28",
             "greenTime": 3
         }
     },
@@ -234,8 +234,8 @@
             "trafficID": 4,
             "num_cars": 0,
             "weatherStamp:": null,
-            "timeStamp": "18:23:59",
-            "dateStamp": "2024-07-27",
+            "timeStamp": "09:55:26",
+            "dateStamp": "2024-07-28",
             "greenTime": 3
         }
     },
@@ -244,8 +244,8 @@
             "trafficID": 1,
             "num_cars": 0,
             "weatherStamp:": null,
-            "timeStamp": "18:24:04",
-            "dateStamp": "2024-07-27",
+            "timeStamp": "09:55:31",
+            "dateStamp": "2024-07-28",
             "greenTime": 3
         }
     },
@@ -254,8 +254,8 @@
             "trafficID": 2,
             "num_cars": 0,
             "weatherStamp:": null,
-            "timeStamp": "18:24:09",
-            "dateStamp": "2024-07-27",
+            "timeStamp": "09:55:36",
+            "dateStamp": "2024-07-28",
             "greenTime": 3
         }
     },
@@ -264,8 +264,8 @@
             "trafficID": 3,
             "num_cars": 0,
             "weatherStamp:": null,
-            "timeStamp": "18:24:14",
-            "dateStamp": "2024-07-27",
+            "timeStamp": "09:55:41",
+            "dateStamp": "2024-07-28",
             "greenTime": 3
         }
     },
@@ -274,8 +274,8 @@
             "trafficID": 4,
             "num_cars": 0,
             "weatherStamp:": null,
-            "timeStamp": "18:24:19",
-            "dateStamp": "2024-07-27",
+            "timeStamp": "09:55:46",
+            "dateStamp": "2024-07-28",
             "greenTime": 3
         }
     },
@@ -284,8 +284,8 @@
             "trafficID": 1,
             "num_cars": 0,
             "weatherStamp:": null,
-            "timeStamp": "18:24:24",
-            "dateStamp": "2024-07-27",
+            "timeStamp": "09:55:51",
+            "dateStamp": "2024-07-28",
             "greenTime": 3
         }
     },
@@ -294,8 +294,8 @@
             "trafficID": 2,
             "num_cars": 0,
             "weatherStamp:": null,
-            "timeStamp": "18:24:29",
-            "dateStamp": "2024-07-27",
+            "timeStamp": "09:55:56",
+            "dateStamp": "2024-07-28",
             "greenTime": 3
         }
     },
@@ -304,8 +304,8 @@
             "trafficID": 3,
             "num_cars": 0,
             "weatherStamp:": null,
-            "timeStamp": "18:24:34",
-            "dateStamp": "2024-07-27",
+            "timeStamp": "09:56:01",
+            "dateStamp": "2024-07-28",
             "greenTime": 3
         }
     },
@@ -314,8 +314,8 @@
             "trafficID": 4,
             "num_cars": 0,
             "weatherStamp:": null,
-            "timeStamp": "18:24:39",
-            "dateStamp": "2024-07-27",
+            "timeStamp": "09:56:06",
+            "dateStamp": "2024-07-28",
             "greenTime": 3
         }
     },
@@ -324,18 +324,18 @@
             "trafficID": 1,
             "num_cars": 0,
             "weatherStamp:": null,
-            "timeStamp": "18:24:44",
-            "dateStamp": "2024-07-27",
+            "timeStamp": "09:56:11",
+            "dateStamp": "2024-07-28",
             "greenTime": 3
         }
     },
     {
         "Cycle 9": {
             "trafficID": 2,
-            "num_cars": 6,
+            "num_cars": 0,
             "weatherStamp:": null,
-            "timeStamp": "18:24:49",
-            "dateStamp": "2024-07-27",
+            "timeStamp": "09:56:16",
+            "dateStamp": "2024-07-28",
             "greenTime": 3
         }
     },
@@ -344,8 +344,8 @@
             "trafficID": 3,
             "num_cars": 0,
             "weatherStamp:": null,
-            "timeStamp": "18:24:54",
-            "dateStamp": "2024-07-27",
+            "timeStamp": "09:56:21",
+            "dateStamp": "2024-07-28",
             "greenTime": 3
         }
     },
@@ -354,8 +354,8 @@
             "trafficID": 4,
             "num_cars": 0,
             "weatherStamp:": null,
-            "timeStamp": "18:24:59",
-            "dateStamp": "2024-07-27",
+            "timeStamp": "09:56:26",
+            "dateStamp": "2024-07-28",
             "greenTime": 3
         }
     },
@@ -364,19 +364,19 @@
             "trafficID": 1,
             "num_cars": 0,
             "weatherStamp:": null,
-            "timeStamp": "18:25:05",
-            "dateStamp": "2024-07-27",
+            "timeStamp": "09:56:31",
+            "dateStamp": "2024-07-28",
             "greenTime": 3
         }
     },
     {
         "Cycle 10": {
             "trafficID": 2,
-            "num_cars": 35,
+            "num_cars": 91,
             "weatherStamp:": null,
-            "timeStamp": "18:25:10",
-            "dateStamp": "2024-07-27",
-            "greenTime": 18
+            "timeStamp": "09:56:36",
+            "dateStamp": "2024-07-28",
+            "greenTime": 46
         }
     },
     {
@@ -384,8 +384,8 @@
             "trafficID": 3,
             "num_cars": 0,
             "weatherStamp:": null,
-            "timeStamp": "18:25:30",
-            "dateStamp": "2024-07-27",
+            "timeStamp": "09:57:24",
+            "dateStamp": "2024-07-28",
             "greenTime": 3
         }
     },
@@ -394,8 +394,8 @@
             "trafficID": 4,
             "num_cars": 0,
             "weatherStamp:": null,
-            "timeStamp": "18:25:35",
-            "dateStamp": "2024-07-27",
+            "timeStamp": "09:57:29",
+            "dateStamp": "2024-07-28",
             "greenTime": 3
         }
     }
