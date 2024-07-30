@@ -83,8 +83,8 @@ def randomize_function():
     # Randomly choose the pattern type for all lanes
     pattern_type = random.choice([1, 2, 3])
     # pattern_type = 2
-    min_threshold = 10
-    max_threshold = 50
+    min_threshold = 80
+    max_threshold = 150
 
     for lane in road:
         flag = False
@@ -101,8 +101,8 @@ def randomize_function():
 
         elif pattern_type == 3:
             # Maximum crowded in all lanes from start to end
-            min_threshold = 80
-            max_threshold = 120
+            min_threshold = 100
+            max_threshold = 250
         if not flag:
             for section in lane:
                 num_vehicles_per_section = random.randint(min_threshold, max_threshold)
