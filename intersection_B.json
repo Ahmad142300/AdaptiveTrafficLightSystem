@@ -20538,5 +20538,35 @@
             "dateStamp": "2024-07-31",
             "greenTime": 3
         }
+    },
+    {
+        "Cycle 514": {
+            "trafficID": 3,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "13:52:36",
+            "dateStamp": "2024-07-31",
+            "greenTime": 3
+        }
+    },
+    {
+        "Cycle 514": {
+            "trafficID": 4,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "13:52:41",
+            "dateStamp": "2024-07-31",
+            "greenTime": 3
+        }
+    },
+    {
+        "Cycle 515": {
+            "trafficID": 1,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "13:52:46",
+            "dateStamp": "2024-07-31",
+            "greenTime": 3
+        }
     }
 ]
