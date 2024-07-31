@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "trafficID": "A1",
@@ -18512,3 +18513,5 @@
         "greenTime": 3
     }
 ]
+=======
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)

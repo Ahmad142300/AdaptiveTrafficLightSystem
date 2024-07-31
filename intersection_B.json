@@ -1,176 +1,315 @@
 [
     {
         "Cycle 1": {
+<<<<<<< HEAD
             "trafficID": "B1",
             "num_cars": 0,
             "weatherStamp:": null,
             "timeStamp": "10:55:01",
             "dateStamp": "2024-07-30",
+=======
+            "trafficID": 1,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "09:52:25",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
         "Cycle 1": {
+<<<<<<< HEAD
             "trafficID": "B2",
             "num_cars": 0,
             "weatherStamp:": null,
             "timeStamp": "10:55:06",
             "dateStamp": "2024-07-30",
+=======
+            "trafficID": 2,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "09:52:30",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
         "Cycle 1": {
+<<<<<<< HEAD
             "trafficID": "B3",
             "num_cars": 0,
             "weatherStamp:": null,
             "timeStamp": "10:55:11",
             "dateStamp": "2024-07-30",
+=======
+            "trafficID": 3,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "09:52:35",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
         "Cycle 1": {
+<<<<<<< HEAD
             "trafficID": "B4",
             "num_cars": 0,
             "weatherStamp:": null,
             "timeStamp": "10:55:16",
             "dateStamp": "2024-07-30",
+=======
+            "trafficID": 4,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "09:52:40",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
         "Cycle 2": {
+<<<<<<< HEAD
             "trafficID": "B1",
             "num_cars": 0,
             "weatherStamp:": null,
             "timeStamp": "10:55:21",
             "dateStamp": "2024-07-30",
+=======
+            "trafficID": 1,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "09:52:45",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
         "Cycle 2": {
+<<<<<<< HEAD
             "trafficID": "B2",
             "num_cars": 0,
             "weatherStamp:": null,
             "timeStamp": "10:55:26",
             "dateStamp": "2024-07-30",
+=======
+            "trafficID": 2,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "09:52:50",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
         "Cycle 2": {
+<<<<<<< HEAD
             "trafficID": "B3",
             "num_cars": 0,
             "weatherStamp:": null,
             "timeStamp": "10:55:31",
             "dateStamp": "2024-07-30",
+=======
+            "trafficID": 3,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "09:52:55",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
         "Cycle 2": {
+<<<<<<< HEAD
             "trafficID": "B4",
             "num_cars": 0,
             "weatherStamp:": null,
             "timeStamp": "10:55:36",
             "dateStamp": "2024-07-30",
+=======
+            "trafficID": 4,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "09:53:00",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
         "Cycle 3": {
+<<<<<<< HEAD
             "trafficID": "B1",
             "num_cars": 0,
             "weatherStamp:": null,
             "timeStamp": "10:55:41",
             "dateStamp": "2024-07-30",
+=======
+            "trafficID": 1,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "09:53:05",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
         "Cycle 3": {
+<<<<<<< HEAD
             "trafficID": "B2",
             "num_cars": 8,
             "weatherStamp:": null,
             "timeStamp": "10:55:46",
             "dateStamp": "2024-07-30",
+=======
+            "trafficID": 2,
+            "num_cars": 19,
+            "weatherStamp:": null,
+            "timeStamp": "09:53:10",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 10
         }
     },
     {
         "Cycle 3": {
+<<<<<<< HEAD
             "trafficID": "B3",
             "num_cars": 0,
             "weatherStamp:": null,
             "timeStamp": "10:55:58",
             "dateStamp": "2024-07-30",
             "greenTime": 10
+=======
+            "trafficID": 3,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "09:53:22",
+            "dateStamp": "2024-07-29",
+            "greenTime": 3
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
         }
     },
     {
         "Cycle 3": {
+<<<<<<< HEAD
             "trafficID": "B4",
             "num_cars": 0,
             "weatherStamp:": null,
             "timeStamp": "10:56:10",
             "dateStamp": "2024-07-30",
+=======
+            "trafficID": 4,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "09:53:27",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
         "Cycle 4": {
+<<<<<<< HEAD
             "trafficID": "B1",
             "num_cars": 0,
             "weatherStamp:": null,
             "timeStamp": "10:56:15",
             "dateStamp": "2024-07-30",
+=======
+            "trafficID": 1,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "09:53:32",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
         "Cycle 4": {
+<<<<<<< HEAD
             "trafficID": "B2",
             "num_cars": 0,
             "weatherStamp:": null,
             "timeStamp": "10:56:20",
             "dateStamp": "2024-07-30",
+=======
+            "trafficID": 2,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "09:53:37",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
         "Cycle 4": {
+<<<<<<< HEAD
             "trafficID": "B3",
             "num_cars": 0,
             "weatherStamp:": null,
             "timeStamp": "10:56:25",
             "dateStamp": "2024-07-30",
             "greenTime": 10
+=======
+            "trafficID": 3,
+            "num_cars": 6,
+            "weatherStamp:": null,
+            "timeStamp": "09:53:43",
+            "dateStamp": "2024-07-29",
+            "greenTime": 3
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
         }
     },
     {
         "Cycle 4": {
+<<<<<<< HEAD
             "trafficID": "B4",
             "num_cars": 0,
             "weatherStamp:": null,
             "timeStamp": "10:56:37",
             "dateStamp": "2024-07-30",
+=======
+            "trafficID": 4,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "09:53:48",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
         "Cycle 5": {
+<<<<<<< HEAD
             "trafficID": "B1",
             "num_cars": 0,
             "weatherStamp:": null,
             "timeStamp": "10:56:42",
             "dateStamp": "2024-07-30",
+=======
+            "trafficID": 1,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "09:53:53",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
         "Cycle 5": {
+<<<<<<< HEAD
             "trafficID": "B2",
             "num_cars": 0,
             "weatherStamp:": null,
@@ -776,10 +915,18 @@
             "weatherStamp:": null,
             "timeStamp": "11:04:43",
             "dateStamp": "2024-07-30",
+=======
+            "trafficID": 2,
+            "num_cars": 92,
+            "weatherStamp:": null,
+            "timeStamp": "09:53:58",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 46
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 20": {
             "trafficID": "B3",
             "num_cars": 3,
@@ -796,20 +943,48 @@
             "weatherStamp:": null,
             "timeStamp": "11:05:43",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 5": {
+            "trafficID": 3,
+            "num_cars": 58,
+            "weatherStamp:": null,
+            "timeStamp": "09:54:46",
+            "dateStamp": "2024-07-29",
+            "greenTime": 29
+        }
+    },
+    {
+        "Cycle 5": {
+            "trafficID": 4,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "09:55:17",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 21": {
             "trafficID": "B1",
             "num_cars": 0,
             "weatherStamp:": null,
             "timeStamp": "11:05:48",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 6": {
+            "trafficID": 1,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "09:55:22",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 21": {
             "trafficID": "B2",
             "num_cars": 0,
@@ -1836,20 +2011,48 @@
             "weatherStamp:": null,
             "timeStamp": "11:21:08",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 6": {
+            "trafficID": 2,
+            "num_cars": 1,
+            "weatherStamp:": null,
+            "timeStamp": "09:55:27",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 47": {
             "trafficID": "B1",
             "num_cars": 0,
             "weatherStamp:": null,
             "timeStamp": "11:21:13",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 6": {
+            "trafficID": 3,
+            "num_cars": 9,
+            "weatherStamp:": null,
+            "timeStamp": "09:55:32",
+            "dateStamp": "2024-07-29",
+            "greenTime": 5
+        }
+    },
+    {
+        "Cycle 6": {
+            "trafficID": 4,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "09:55:39",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 47": {
             "trafficID": "B2",
             "num_cars": 29,
@@ -1876,10 +2079,19 @@
             "weatherStamp:": null,
             "timeStamp": "11:21:47",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 7": {
+            "trafficID": 1,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "09:55:44",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 48": {
             "trafficID": "B1",
             "num_cars": 0,
@@ -2116,20 +2328,38 @@
             "weatherStamp:": null,
             "timeStamp": "11:25:37",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 7": {
+            "trafficID": 2,
+            "num_cars": 2,
+            "weatherStamp:": null,
+            "timeStamp": "09:55:49",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 54": {
             "trafficID": "B1",
             "num_cars": 0,
             "weatherStamp:": null,
             "timeStamp": "11:29:50",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 7": {
+            "trafficID": 3,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "09:55:54",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 54": {
             "trafficID": "B2",
             "num_cars": 20,
@@ -2156,20 +2386,38 @@
             "weatherStamp:": null,
             "timeStamp": "11:30:19",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 7": {
+            "trafficID": 4,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "09:55:59",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 55": {
             "trafficID": "B1",
             "num_cars": 0,
             "weatherStamp:": null,
             "timeStamp": "11:30:24",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 8": {
+            "trafficID": 1,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "09:56:04",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 55": {
             "trafficID": "B2",
             "num_cars": 0,
@@ -2896,50 +3144,225 @@
             "weatherStamp:": null,
             "timeStamp": "11:39:42",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 8": {
+            "trafficID": 2,
+            "num_cars": 113,
+            "weatherStamp:": null,
+            "timeStamp": "09:56:09",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 50
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 73": {
             "trafficID": "B3",
             "num_cars": 0,
             "weatherStamp:": null,
             "timeStamp": "11:40:34",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 8": {
+            "trafficID": 3,
+            "num_cars": 15,
+            "weatherStamp:": null,
+            "timeStamp": "09:57:01",
+            "dateStamp": "2024-07-29",
+            "greenTime": 8
+        }
+    },
+    {
+        "Cycle 8": {
+            "trafficID": 4,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "09:57:11",
+            "dateStamp": "2024-07-29",
+            "greenTime": 3
+        }
+    },
+    {
+        "Cycle 9": {
+            "trafficID": 1,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "09:57:16",
+            "dateStamp": "2024-07-29",
+            "greenTime": 3
+        }
+    },
+    {
+        "Cycle 9": {
+            "trafficID": 2,
+            "num_cars": 28,
+            "weatherStamp:": null,
+            "timeStamp": "09:57:21",
+            "dateStamp": "2024-07-29",
+            "greenTime": 3
+        }
+    },
+    {
+        "Cycle 9": {
+            "trafficID": 3,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "09:57:26",
+            "dateStamp": "2024-07-29",
+            "greenTime": 3
+        }
+    },
+    {
+        "Cycle 9": {
+            "trafficID": 4,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "09:57:31",
+            "dateStamp": "2024-07-29",
+            "greenTime": 3
+        }
+    },
+    {
+        "Cycle 10": {
+            "trafficID": 1,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "09:57:36",
+            "dateStamp": "2024-07-29",
+            "greenTime": 3
+        }
+    },
+    {
+        "Cycle 10": {
+            "trafficID": 2,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "09:57:41",
+            "dateStamp": "2024-07-29",
+            "greenTime": 3
+        }
+    },
+    {
+        "Cycle 10": {
+            "trafficID": 3,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "09:57:46",
+            "dateStamp": "2024-07-29",
+            "greenTime": 3
+        }
+    },
+    {
+        "Cycle 10": {
+            "trafficID": 4,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "09:57:51",
+            "dateStamp": "2024-07-29",
+            "greenTime": 3
+        }
+    },
+    {
+        "Cycle 11": {
+            "trafficID": 1,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "09:57:57",
+            "dateStamp": "2024-07-29",
+            "greenTime": 3
+        }
+    },
+    {
+        "Cycle 11": {
+            "trafficID": 2,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "09:58:02",
+            "dateStamp": "2024-07-29",
+            "greenTime": 3
+        }
+    },
+    {
+        "Cycle 11": {
+            "trafficID": 3,
+            "num_cars": 20,
+            "weatherStamp:": null,
+            "timeStamp": "09:58:07",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 10
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 73": {
             "trafficID": "B4",
             "num_cars": 0,
             "weatherStamp:": null,
             "timeStamp": "11:40:46",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 11": {
+            "trafficID": 4,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "09:58:19",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 74": {
             "trafficID": "B1",
             "num_cars": 0,
             "weatherStamp:": null,
             "timeStamp": "11:40:51",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 12": {
+            "trafficID": 1,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "09:58:24",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 74": {
             "trafficID": "B2",
             "num_cars": 0,
             "weatherStamp:": null,
             "timeStamp": "11:40:56",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 12": {
+            "trafficID": 2,
+            "num_cars": 10,
+            "weatherStamp:": null,
+            "timeStamp": "09:58:29",
+            "dateStamp": "2024-07-29",
+            "greenTime": 5
+        }
+    },
+    {
+        "Cycle 12": {
+            "trafficID": 3,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "09:58:36",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 74": {
             "trafficID": "B3",
             "num_cars": 0,
@@ -2956,20 +3379,38 @@
             "weatherStamp:": null,
             "timeStamp": "11:41:14",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 12": {
+            "trafficID": 4,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "09:58:41",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 75": {
             "trafficID": "B1",
             "num_cars": 0,
             "weatherStamp:": null,
             "timeStamp": "11:41:19",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 13": {
+            "trafficID": 1,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "09:58:46",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 75": {
             "trafficID": "B2",
             "num_cars": 0,
@@ -3456,10 +3897,29 @@
             "weatherStamp:": null,
             "timeStamp": "11:48:07",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 13": {
+            "trafficID": 2,
+            "num_cars": 99,
+            "weatherStamp:": null,
+            "timeStamp": "09:58:51",
+            "dateStamp": "2024-07-29",
+            "greenTime": 50
+        }
+    },
+    {
+        "Cycle 13": {
+            "trafficID": 3,
+            "num_cars": 87,
+            "weatherStamp:": null,
+            "timeStamp": "09:59:43",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 44
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 87": {
             "trafficID": "B3",
             "num_cars": 1,
@@ -3476,30 +3936,57 @@
             "weatherStamp:": null,
             "timeStamp": "11:49:05",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 13": {
+            "trafficID": 4,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "10:00:29",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 88": {
             "trafficID": "B1",
             "num_cars": 0,
             "weatherStamp:": null,
             "timeStamp": "11:49:10",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 14": {
+            "trafficID": 1,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "10:00:34",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 88": {
             "trafficID": "B2",
             "num_cars": 0,
             "weatherStamp:": null,
             "timeStamp": "11:49:15",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 14": {
+            "trafficID": 2,
+            "num_cars": 6,
+            "weatherStamp:": null,
+            "timeStamp": "10:00:39",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 88": {
             "trafficID": "B3",
             "num_cars": 0,
@@ -3516,30 +4003,57 @@
             "weatherStamp:": null,
             "timeStamp": "11:49:32",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 14": {
+            "trafficID": 3,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "10:00:44",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 89": {
             "trafficID": "B1",
             "num_cars": 0,
             "weatherStamp:": null,
             "timeStamp": "11:49:37",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 14": {
+            "trafficID": 4,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "10:00:49",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 89": {
             "trafficID": "B2",
             "num_cars": 0,
             "weatherStamp:": null,
             "timeStamp": "11:49:42",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 15": {
+            "trafficID": 1,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "10:00:54",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 89": {
             "trafficID": "B3",
             "num_cars": 0,
@@ -3556,30 +4070,57 @@
             "weatherStamp:": null,
             "timeStamp": "11:49:59",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 15": {
+            "trafficID": 2,
+            "num_cars": 6,
+            "weatherStamp:": null,
+            "timeStamp": "10:00:59",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 90": {
             "trafficID": "B1",
             "num_cars": 0,
             "weatherStamp:": null,
             "timeStamp": "11:50:04",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 15": {
+            "trafficID": 3,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "10:01:04",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 90": {
             "trafficID": "B2",
             "num_cars": 0,
             "weatherStamp:": null,
             "timeStamp": "11:50:09",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 15": {
+            "trafficID": 4,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "10:01:09",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 90": {
             "trafficID": "B3",
             "num_cars": 0,
@@ -3596,20 +4137,58 @@
             "weatherStamp:": null,
             "timeStamp": "11:50:26",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 16": {
+            "trafficID": 1,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "10:01:14",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 91": {
             "trafficID": "B1",
             "num_cars": 0,
             "weatherStamp:": null,
             "timeStamp": "11:50:31",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 16": {
+            "trafficID": 2,
+            "num_cars": 134,
+            "weatherStamp:": null,
+            "timeStamp": "10:01:19",
+            "dateStamp": "2024-07-29",
+            "greenTime": 50
+        }
+    },
+    {
+        "Cycle 16": {
+            "trafficID": 3,
+            "num_cars": 60,
+            "weatherStamp:": null,
+            "timeStamp": "10:02:11",
+            "dateStamp": "2024-07-29",
+            "greenTime": 30
+        }
+    },
+    {
+        "Cycle 16": {
+            "trafficID": 4,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "10:02:43",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 91": {
             "trafficID": "B2",
             "num_cars": 17,
@@ -3636,10 +4215,19 @@
             "weatherStamp:": null,
             "timeStamp": "11:51:01",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 17": {
+            "trafficID": 1,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "10:02:48",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 92": {
             "trafficID": "B1",
             "num_cars": 0,
@@ -3876,20 +4464,38 @@
             "weatherStamp:": null,
             "timeStamp": "11:54:26",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 17": {
+            "trafficID": 2,
+            "num_cars": 42,
+            "weatherStamp:": null,
+            "timeStamp": "10:04:50",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 98": {
             "trafficID": "B1",
             "num_cars": 0,
             "weatherStamp:": null,
             "timeStamp": "11:54:31",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 17": {
+            "trafficID": 3,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "10:04:55",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 98": {
             "trafficID": "B2",
             "num_cars": 25,
@@ -3916,30 +4522,57 @@
             "weatherStamp:": null,
             "timeStamp": "11:55:03",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 17": {
+            "trafficID": 4,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "10:05:00",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 99": {
             "trafficID": "B1",
             "num_cars": 0,
             "weatherStamp:": null,
             "timeStamp": "11:55:08",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 18": {
+            "trafficID": 1,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "10:05:05",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 99": {
             "trafficID": "B2",
             "num_cars": 0,
             "weatherStamp:": null,
             "timeStamp": "11:55:13",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 18": {
+            "trafficID": 2,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "10:05:10",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 99": {
             "trafficID": "B3",
             "num_cars": 0,
@@ -3956,30 +4589,57 @@
             "weatherStamp:": null,
             "timeStamp": "11:55:30",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 18": {
+            "trafficID": 3,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "10:05:15",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 100": {
             "trafficID": "B1",
             "num_cars": 0,
             "weatherStamp:": null,
             "timeStamp": "11:55:35",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 18": {
+            "trafficID": 4,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "10:05:20",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 100": {
             "trafficID": "B2",
             "num_cars": 0,
             "weatherStamp:": null,
             "timeStamp": "11:55:40",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 19": {
+            "trafficID": 1,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "10:05:25",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 100": {
             "trafficID": "B3",
             "num_cars": 0,
@@ -3996,30 +4656,57 @@
             "weatherStamp:": null,
             "timeStamp": "11:55:57",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 19": {
+            "trafficID": 2,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "10:05:30",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 101": {
             "trafficID": "B1",
             "num_cars": 0,
             "weatherStamp:": null,
             "timeStamp": "11:56:02",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 19": {
+            "trafficID": 3,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "10:05:35",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 101": {
             "trafficID": "B2",
             "num_cars": 0,
             "weatherStamp:": null,
             "timeStamp": "11:56:07",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 19": {
+            "trafficID": 4,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "10:05:40",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 101": {
             "trafficID": "B3",
             "num_cars": 0,
@@ -4036,10 +4723,19 @@
             "weatherStamp:": null,
             "timeStamp": "11:56:24",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 20": {
+            "trafficID": 1,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "10:05:45",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 102": {
             "trafficID": "B1",
             "num_cars": 0,
@@ -4256,10 +4952,19 @@
             "weatherStamp:": null,
             "timeStamp": "11:59:20",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 20": {
+            "trafficID": 2,
+            "num_cars": 77,
+            "weatherStamp:": null,
+            "timeStamp": "10:05:50",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 39
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 107": {
             "trafficID": "B3",
             "num_cars": 2,
@@ -4276,20 +4981,48 @@
             "weatherStamp:": null,
             "timeStamp": "12:00:13",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 20": {
+            "trafficID": 3,
+            "num_cars": 39,
+            "weatherStamp:": null,
+            "timeStamp": "10:06:31",
+            "dateStamp": "2024-07-29",
+            "greenTime": 20
+        }
+    },
+    {
+        "Cycle 20": {
+            "trafficID": 4,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "10:06:53",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 108": {
             "trafficID": "B1",
             "num_cars": 0,
             "weatherStamp:": null,
             "timeStamp": "12:00:18",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 21": {
+            "trafficID": 1,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "10:06:59",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 108": {
             "trafficID": "B2",
             "num_cars": 13,
@@ -4956,10 +5689,19 @@
             "weatherStamp:": null,
             "timeStamp": "12:08:54",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 21": {
+            "trafficID": 2,
+            "num_cars": 3,
+            "weatherStamp:": null,
+            "timeStamp": "10:07:04",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 125": {
             "trafficID": "B1",
             "num_cars": 0,
@@ -5376,20 +6118,58 @@
             "weatherStamp:": null,
             "timeStamp": "12:48:11",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 21": {
+            "trafficID": 3,
+            "num_cars": 50,
+            "weatherStamp:": null,
+            "timeStamp": "10:07:09",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 25
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 135": {
             "trafficID": "B3",
             "num_cars": 3,
             "weatherStamp:": null,
             "timeStamp": "12:48:38",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 21": {
+            "trafficID": 4,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "10:07:36",
+            "dateStamp": "2024-07-29",
+            "greenTime": 3
+        }
+    },
+    {
+        "Cycle 22": {
+            "trafficID": 1,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "10:07:41",
+            "dateStamp": "2024-07-29",
+            "greenTime": 3
+        }
+    },
+    {
+        "Cycle 22": {
+            "trafficID": 2,
+            "num_cars": 20,
+            "weatherStamp:": null,
+            "timeStamp": "10:07:46",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 10
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 135": {
             "trafficID": "B4",
             "num_cars": 0,
@@ -5576,10 +6356,19 @@
             "weatherStamp:": null,
             "timeStamp": "12:50:56",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 22": {
+            "trafficID": 3,
+            "num_cars": 27,
+            "weatherStamp:": null,
+            "timeStamp": "10:07:58",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 14
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 140": {
             "trafficID": "B3",
             "num_cars": 0,
@@ -6736,10 +7525,19 @@
             "weatherStamp:": null,
             "timeStamp": "13:16:55",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 22": {
+            "trafficID": 4,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "10:08:14",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 169": {
             "trafficID": "B3",
             "num_cars": 0,
@@ -6756,30 +7554,57 @@
             "weatherStamp:": null,
             "timeStamp": "13:17:12",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 23": {
+            "trafficID": 1,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "10:08:19",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 170": {
             "trafficID": "B1",
             "num_cars": 0,
             "weatherStamp:": null,
             "timeStamp": "13:17:18",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 23": {
+            "trafficID": 2,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "10:08:24",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 170": {
             "trafficID": "B2",
             "num_cars": 0,
             "weatherStamp:": null,
             "timeStamp": "13:17:23",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 23": {
+            "trafficID": 3,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "10:08:29",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 170": {
             "trafficID": "B3",
             "num_cars": 0,
@@ -6796,20 +7621,38 @@
             "weatherStamp:": null,
             "timeStamp": "13:17:40",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 23": {
+            "trafficID": 4,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "10:08:34",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 171": {
             "trafficID": "B1",
             "num_cars": 0,
             "weatherStamp:": null,
             "timeStamp": "13:17:45",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 24": {
+            "trafficID": 1,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "10:08:39",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 171": {
             "trafficID": "B2",
             "num_cars": 27,
@@ -6846,20 +7689,48 @@
             "weatherStamp:": null,
             "timeStamp": "13:18:23",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 24": {
+            "trafficID": 2,
+            "num_cars": 48,
+            "weatherStamp:": null,
+            "timeStamp": "10:08:44",
+            "dateStamp": "2024-07-29",
+            "greenTime": 24
+        }
+    },
+    {
+        "Cycle 24": {
+            "trafficID": 3,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "10:09:10",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 172": {
             "trafficID": "B2",
             "num_cars": 0,
             "weatherStamp:": null,
             "timeStamp": "13:18:28",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 24": {
+            "trafficID": 4,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "10:09:15",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 172": {
             "trafficID": "B3",
             "num_cars": 0,
@@ -6876,10 +7747,19 @@
             "weatherStamp:": null,
             "timeStamp": "13:18:45",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 25": {
+            "trafficID": 1,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "10:09:20",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 173": {
             "trafficID": "B1",
             "num_cars": 0,
@@ -6896,90 +7776,371 @@
             "weatherStamp:": null,
             "timeStamp": "13:18:55",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 25": {
+            "trafficID": 2,
+            "num_cars": 17,
+            "weatherStamp:": null,
+            "timeStamp": "10:09:25",
+            "dateStamp": "2024-07-29",
+            "greenTime": 9
+        }
+    },
+    {
+        "Cycle 25": {
+            "trafficID": 3,
+            "num_cars": 28,
+            "weatherStamp:": null,
+            "timeStamp": "10:09:36",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 14
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 173": {
             "trafficID": "B3",
             "num_cars": 4,
             "weatherStamp:": null,
             "timeStamp": "13:19:11",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 25": {
+            "trafficID": 4,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "10:09:52",
+            "dateStamp": "2024-07-29",
+            "greenTime": 3
+        }
+    },
+    {
+        "Cycle 26": {
+            "trafficID": 1,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "10:09:57",
+            "dateStamp": "2024-07-29",
+            "greenTime": 3
+        }
+    },
+    {
+        "Cycle 26": {
+            "trafficID": 2,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "10:10:02",
+            "dateStamp": "2024-07-29",
+            "greenTime": 3
+        }
+    },
+    {
+        "Cycle 26": {
+            "trafficID": 3,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "10:10:08",
+            "dateStamp": "2024-07-29",
+            "greenTime": 3
+        }
+    },
+    {
+        "Cycle 26": {
+            "trafficID": 4,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "10:10:13",
+            "dateStamp": "2024-07-29",
+            "greenTime": 3
+        }
+    },
+    {
+        "Cycle 27": {
+            "trafficID": 1,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "10:10:18",
+            "dateStamp": "2024-07-29",
+            "greenTime": 3
+        }
+    },
+    {
+        "Cycle 27": {
+            "trafficID": 2,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "10:10:23",
+            "dateStamp": "2024-07-29",
+            "greenTime": 3
+        }
+    },
+    {
+        "Cycle 27": {
+            "trafficID": 3,
+            "num_cars": 65,
+            "weatherStamp:": null,
+            "timeStamp": "10:10:28",
+            "dateStamp": "2024-07-29",
+            "greenTime": 33
+        }
+    },
+    {
+        "Cycle 27": {
+            "trafficID": 4,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "10:11:14",
+            "dateStamp": "2024-07-29",
+            "greenTime": 3
+        }
+    },
+    {
+        "Cycle 28": {
+            "trafficID": 1,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "10:11:19",
+            "dateStamp": "2024-07-29",
+            "greenTime": 3
+        }
+    },
+    {
+        "Cycle 28": {
+            "trafficID": 2,
+            "num_cars": 19,
+            "weatherStamp:": null,
+            "timeStamp": "10:11:24",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 10
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 173": {
             "trafficID": "B4",
             "num_cars": 0,
             "weatherStamp:": null,
             "timeStamp": "13:19:23",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 28": {
+            "trafficID": 3,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "10:11:36",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 174": {
             "trafficID": "B1",
             "num_cars": 0,
             "weatherStamp:": null,
             "timeStamp": "13:19:28",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 28": {
+            "trafficID": 4,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "10:11:41",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 174": {
             "trafficID": "B2",
             "num_cars": 0,
             "weatherStamp:": null,
             "timeStamp": "13:19:33",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 29": {
+            "trafficID": 1,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "10:11:46",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 174": {
             "trafficID": "B3",
             "num_cars": 0,
             "weatherStamp:": null,
             "timeStamp": "13:19:38",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 29": {
+            "trafficID": 2,
+            "num_cars": 22,
+            "weatherStamp:": null,
+            "timeStamp": "10:11:51",
+            "dateStamp": "2024-07-29",
+            "greenTime": 11
+        }
+    },
+    {
+        "Cycle 29": {
+            "trafficID": 3,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "10:12:05",
+            "dateStamp": "2024-07-29",
+            "greenTime": 3
+        }
+    },
+    {
+        "Cycle 29": {
+            "trafficID": 4,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "10:12:10",
+            "dateStamp": "2024-07-29",
+            "greenTime": 3
+        }
+    },
+    {
+        "Cycle 30": {
+            "trafficID": 1,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "10:12:15",
+            "dateStamp": "2024-07-29",
+            "greenTime": 3
+        }
+    },
+    {
+        "Cycle 30": {
+            "trafficID": 2,
+            "num_cars": 9,
+            "weatherStamp:": null,
+            "timeStamp": "10:12:20",
+            "dateStamp": "2024-07-29",
+            "greenTime": 5
+        }
+    },
+    {
+        "Cycle 30": {
+            "trafficID": 3,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "10:12:27",
+            "dateStamp": "2024-07-29",
+            "greenTime": 3
+        }
+    },
+    {
+        "Cycle 30": {
+            "trafficID": 4,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "10:12:32",
+            "dateStamp": "2024-07-29",
+            "greenTime": 3
+        }
+    },
+    {
+        "Cycle 31": {
+            "trafficID": 1,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "10:12:37",
+            "dateStamp": "2024-07-29",
+            "greenTime": 3
+        }
+    },
+    {
+        "Cycle 31": {
+            "trafficID": 2,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "10:12:42",
+            "dateStamp": "2024-07-29",
+            "greenTime": 3
+        }
+    },
+    {
+        "Cycle 31": {
+            "trafficID": 3,
+            "num_cars": 19,
+            "weatherStamp:": null,
+            "timeStamp": "10:12:47",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 10
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 174": {
             "trafficID": "B4",
             "num_cars": 0,
             "weatherStamp:": null,
             "timeStamp": "13:19:50",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 31": {
+            "trafficID": 4,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "10:12:59",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 175": {
             "trafficID": "B1",
             "num_cars": 0,
             "weatherStamp:": null,
             "timeStamp": "13:19:55",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 32": {
+            "trafficID": 1,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "10:13:04",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 175": {
             "trafficID": "B2",
             "num_cars": 0,
             "weatherStamp:": null,
             "timeStamp": "13:20:00",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 32": {
+            "trafficID": 2,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "10:13:09",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 175": {
             "trafficID": "B3",
             "num_cars": 0,
@@ -6996,30 +8157,57 @@
             "weatherStamp:": null,
             "timeStamp": "13:20:17",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 32": {
+            "trafficID": 3,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "10:13:14",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 176": {
             "trafficID": "B1",
             "num_cars": 0,
             "weatherStamp:": null,
             "timeStamp": "13:20:23",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 32": {
+            "trafficID": 4,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "10:13:19",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 176": {
             "trafficID": "B2",
             "num_cars": 0,
             "weatherStamp:": null,
             "timeStamp": "13:20:28",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 33": {
+            "trafficID": 1,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "10:13:24",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     },
     {
+<<<<<<< HEAD
         "Cycle 176": {
             "trafficID": "B3",
             "num_cars": 0,
@@ -7206,6 +8394,14 @@
             "weatherStamp:": null,
             "timeStamp": "13:22:52",
             "dateStamp": "2024-07-30",
+=======
+        "Cycle 33": {
+            "trafficID": 2,
+            "num_cars": 0,
+            "weatherStamp:": null,
+            "timeStamp": "10:13:29",
+            "dateStamp": "2024-07-29",
+>>>>>>> a7aaad4 (Changed numbers of vehicles generated and, code generates cars from all intersections)
             "greenTime": 3
         }
     }
