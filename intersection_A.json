@@ -2428,5 +2428,25 @@
             "dateStamp": "2024-07-31",
             "greenTime": 50
         }
+    },
+    {
+        "Cycle 61": {
+            "trafficID": 4,
+            "num_cars": 94,
+            "weatherStamp:": 30,
+            "timeStamp": "13:51:34",
+            "dateStamp": "2024-07-31",
+            "greenTime": 50
+        }
+    },
+    {
+        "Cycle 62": {
+            "trafficID": 1,
+            "num_cars": 46,
+            "weatherStamp:": 30,
+            "timeStamp": "13:52:27",
+            "dateStamp": "2024-07-31",
+            "greenTime": 48
+        }
     }
 ]
