@@ -987,6 +987,6 @@ def generate_estimation():
 
 if __name__ == "__main__":
     estimations = generate_estimation()
-    save_to_database(estimations)
+    # save_to_database(estimations)
     # print(f"Appended {estimations} to the database.")
     # print(f"Appended {estimations} to the database.")
